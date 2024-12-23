@@ -1,6 +1,6 @@
 # STEMS: Segmented Time-series End-to-end Multi-scale/Multimodal System
 
-A state-of-the-art pipeline for time-series analysis combining TabNet, temporal cross-attention, and advanced segmentation techniques.
+A pipeline for time-series analysis combining TabNet, temporal cross-attention, and advanced segmentation techniques.
 
 ## Research Focus
 
